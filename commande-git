@@ -3,3 +3,6 @@ git add .
 git commit -m ""
 git push
 git pull
+git branch add-create-branch-command
+git switch add-create-branch-command
+git switch -c add-create-branch-command
